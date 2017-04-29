@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E27B2BD1-CC32-87B6-D52D-F1248E4F7D34}") = "TouchSword", "Assembly-CSharp.csproj", "{F1DCC524-4DF8-0D38-6064-1C0470B28721}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1DCC524-4DF8-0D38-6064-1C0470B28721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1DCC524-4DF8-0D38-6064-1C0470B28721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1DCC524-4DF8-0D38-6064-1C0470B28721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1DCC524-4DF8-0D38-6064-1C0470B28721}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

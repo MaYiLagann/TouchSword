@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\3. Scripts\TouchAnvil.cs">
+    <Files>
+      <File FileName="Assets\3. Scripts\TouchAnvil.cs" Line="70" Column="31" />
+      <File FileName="Assets\3. Scripts\SparkCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\3. Scripts\CamCtrl.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
