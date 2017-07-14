@@ -11,7 +11,7 @@ public class SparkCtrl : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+		gameObject.transform.rotation = Random.rotation;
 	}
 	
 	// Update is called once per frame

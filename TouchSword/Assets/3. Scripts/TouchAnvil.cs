@@ -6,6 +6,8 @@ public class TouchAnvil : MonoBehaviour {
 
 	[Header("Beat Settings")]
 	public Vector2 Beat = new Vector2 (1f, 2f);
+	[Range(0, 1)]
+	public float HalfBeat = 0;
 	public float BeatSuccess = 0.2f;
 	public Slider BeatSlider;
 
@@ -72,6 +74,8 @@ public class TouchAnvil : MonoBehaviour {
 		// GameSystem
 		hit++;
 		currentBeat = Beat.x / Beat.y;
+		if (Random.Range (0f, 1f) < HalfBeat)
+			currentBeat /= 2;
 	}
 
 	void LightCtrl() {
